@@ -38,7 +38,7 @@ try {
 ### Via composer:
 
 ```sh
-$ composer require zhilevan/GoogShortly
+$ composer require zhilevan/google-shortly-php
 ```
 
 ### Without composer
