@@ -1,8 +1,8 @@
 {
     "name": "zhilevan/google-shortly-php",
-    "description": "A PHP5 library to generate shortened URL through The Google  Shortener API",
+    "description": "A PHP library to generate shortened URL through The Google  Shortener API",
     "license": "MIT",
-    "keywords": ["google", "shortener", "api","short-url"],
+    "keywords": ["google short url php", "shortener php ", "php-shortener","short-url"],
     "authors": [
         {
             "name": "zhilevan",
@@ -16,8 +16,8 @@
         "phpunit/phpunit": "4.0.*"
     },
     "autoload": {
-        "psr-4": {
-            "zhilevan\\": "src"
+        "psr-0": {
+            "zhilevan\\": "src/"
         }
     }
 }
