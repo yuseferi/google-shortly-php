@@ -1,12 +1,12 @@
 {
-    "name": "zhilevan/google-shortly-php",
+    "name": "yuseferi/google-shortly-php",
     "description": "A PHP library to generate shortened URL through The Google  Shortener API",
     "license": "MIT",
     "keywords": ["google-short-url-php", "shortener-php ", "php-shortener","short-url"],
     "authors": [
         {
-            "name": "zhilevan",
-            "email": "zhilevan@gmail.com"
+            "name": "Yuseferi",
+            "email": "yuseferi@gmail.com"
         }
     ],
     "require": {
